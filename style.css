@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+
+*{ 
+    font-family: "Josefin Sans", sans-serif;
+
+}
+
+.header-hero-section{
+    background-image: url(./imges/Background\ Image.png);
+    height: 88vh;
+    background-size: cover;
+    
+}
+
+.primary-bg{
+    background-color: #5956E9 !important;
+}
+
+.App-page{
+    background-image: url(./imges/background-1.png);
+    background-size: cover;
+}
+
+.icon{
+    font-size: 50px;
+}
+
+.Uesing{
+    background-image: url(./imges/Rectangle\ 15.png);
+    background-size: cover;
+    height:400px;
+}
+
+.Reative{
+    margin-top: 300px;
+}
+
+.Happy{
+    background-image: url(./imges/Background\ Image\ \(1\).png);
+    background-size: cover;
+    height:800px; 
+}
+
+.hieght {
+    height: 250px;
+}
+
+
+.java{
+    background-image: url(./imges/Rectangle\ -20.png);
+    background-size: cover;
+    height:600px; 
+}
+
